@@ -76,8 +76,3 @@ Contributions are welcome! If you find any issues or want to enhance the project
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README template according to your project's specifics. Make sure to replace placeholders like 
-`yachi_2605`, `Customer_analysis`, and provide the correct links and versions for the dependencies.
